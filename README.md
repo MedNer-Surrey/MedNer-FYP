@@ -1,7 +1,12 @@
-# MedNer-FYP
 
-Commands to run locally:
+# MedNer FYP
 
+This repository is responsible for holding all of the stages of the Ner development.
+
+
+
+
+## How to run
 
 python -m venv .env
 
