@@ -1,0 +1,473 @@
+A 69-year-old woman with a history of hypertension presented with a generalized petechial rash and shortness of breath of 3 days duration.
+The rash was nonpruritic, painless, and started at the thighs, but rapidly disseminated to the rest of the body.
+She had progressive dyspnea on exertion, with a significant decrease in exercise tolerance.
+She denied fever, headache, dizziness, hemoptysis, or bleeding from anywhere.
+There was no history of new drug use, unusual food intake, contact with any sick persons, or recent travel.
+Her only medication was enalapril, which she had been taking for several years.
+The patient denied any use of recreational drugs, tobacco, or alcohol.
+On admission, she was afebrile, normotensive with mild tachypnea (respiratory rate of 22 breaths per minute).
+Physical examination revealed scattered petechial rash, more prominent in lower extremities, nonpalpable and nonblanching.
+Chest auscultation revealed coarse crackles bilaterally.
+Cardiovascular, abdominal, and neurological examinations were normal.
+There was no palpable lymphadenopathy or visceromegaly.
+Laboratory examination revealed thrombocytopenia (platelets 7000/mL), anemia (hemoglobin 10.8 mg/dL and hematocrit 34%), and leukocytosis (white blood cells [WBCs] 11,600/mL).
+The coagulation profile was normal, which excluded disseminated intravascular coagulation.
+Arterial blood gas on ambient air revealed a partial pressure of oxygen (PaO2) of 64 Torr, a partial pressure of carbon dioxide (PaCO2) of 37 Torr (pH 7.45), and an increased alveolar-arterial gradient (44 Torr).
+Diffuse airspace consolidation was found on chest roentgenogram (Fig.1A).
+Computed tomography (CT) of the chest showed diffuse ground glass alveolar opacities and patchy infiltrates (Fig.1B, C).
+She was started on broad-spectrum antibiotics and received intravenous steroids.
+Peripheral smear showed giant platelets and occasional small platelet clumps, with no schistocytes.
+A flexible fiber-optic bronchoscopy (FFB) showed normal mucosa with no endobronchial lesions (Fig.2A).
+Serial aliquots of BAL fluid (BALF) turned more hemorrhagic, confirming the bronchoscopic diagnosis of DAH (Fig.2B).
+Cytology of BALF showed a substantial amount of hemosiderin-laden macrophages, further supporting the diagnosis.
+All BALF cultures and gram stains were negative.
+The patient remained with severe thrombocytopenia and hypoxia despite steroids and platelets transfusion.
+High doses of pulse steroids and intravenous immunoglobulins (IVIGs) were added with clinico-radiological improvement.
+A bone marrow aspirate was morphologically normal.
+Additional laboratory studies failed to reveal an etiology for secondary thrombocytopenia (Table  1), supporting the diagnosis of ITP.
+Steroids were gradually tapered.
+Repeat chest radiograph showed almost complete resolution of bilateral infiltrates (Fig.3).
+Platelet count returned to normal by week 10 after admission without any additional therapies (Fig.4).
+A 47-year-old woman presented to the hospital with a 1-month history of abdominal distention.
+Physical examination revealed a huge mass in the lower abdomen.
+The peripheral blood test showed elevated levels of carcinoembryonic antigen (CEA, 335.2 ng/mL [normal, <5 ng/mL]) and carbohydrate antigen (CA) 125 (219 U/mL [normal, <45 U/mL]) but a normal level of CA19-9 (9 U/mL [normal, <37 U/mL]).
+Computed tomography (CT) demonstrated a large, round mass with a maximum diameter of 15 cm in the pelvic cavity without the presence of ascites or pleural effusion (Fig.1a,  b).
+Colonoscopy identified an elevated lesion with severe stenosis in the sigmoid colon, and histopathological examination of biopsy specimens from the tumor showed moderately differentiated adenocarcinoma.
+Although we scheduled an early operation, the patient developed acute dyspnea and general edema 2 weeks after the first CT scan.
+The second CT scan examination demonstrated massive bilateral pleural effusion with atelectasis and ascites (Fig.2a, b).
+Thoracic drainage and laparotomy were emergently performed.
+Macroscopically, the tumor in the sigmoid colon had invaded the serosa, and the huge pelvic mass was found to contain a right ovarian tumor.        
+Several small nodules of peritoneal dissemination were distributed over the greater omentum.
+Perioperatively, 3800 mL of serous ascitic fluid was drained.
+Cytodiagnosis of the fluid drained from the ascites and pleural effusion revealed no tumor cells.
+Bilateral oophorectomy, total hysterectomy, omentectomy, and sigmoidectomy with regional node dissection were performed (Fig.3a).
+Histopathological examination of the resected specimens showed moderately differentiated adenocarcinoma in the tumors of both the ovaries and the sigmoid colon (Fig.3b).
+The dissected paracolic nodes showed malignant cells.
+Immunohistochemically, tumor cells from the ovaries and the colon both showed positive expression of cytokeratin 20 (CK20) but no expression of cytokeratin 7 (CK7), confirming that the ovarian tumors were metastases from primary colon cancer (Fig.4a,  b).
+The postoperative course was uneventful, and both pleural effusion and ascites rapidly resolved.
+Postoperatively, a regimen of 5-fluorouracil (5-FU), leucovorin, and oxaliplatin (FOLFOX) was administered every 2 weeks for 5 months.
+At 29 months after the first operation, the patient required curative hepatic resection for liver metastases.
+At 78 months after the first operation, the patient remains alive with no evidence of a disease.
+A 42-year-old woman presented with a right breast lump, lower back pain, loss of height, marked kyphosis and hepatomegaly.
+Core biopsies from the breast lump showed ductal carcinoma in situ (sample labelled P1.1; Supplementary Fig.1 and Supplementary Table 1).
+An additional biopsy from an ipsilateral axillary lymph node (P1.2) revealed metastatic ductal adenocarcinoma (ER+ (8/8) and HER2+ (3+)).
+Computed tomography scan revealed widespread metastatic disease in bones, pleura and liver (Supplementary Fig.2 and Supplementary Table 2).
+The patient was started on treatment with trastuzumab and taxane-based chemotherapy, with a significant partial response (Supplementary Fig.3).     
+After induction chemotherapy, she was maintained on tamoxifen and trastuzumab.
+After 19 months on treatment, she presented with seizures and head computed tomography revealed a large metastasis in the left frontal lobe (Supplementary Fig.4), which was resected (M2.1).
+Therapy with tamoxifen and trastuzumab was continued and collection of plasma samples was initiated (samples T1-T9).
+Four months after surgery, she had enlarging liver lesions and a new metastatic deposit in the left ovary (Supplementary Fig.5).
+Treatment was switched to a combination of lapatinib and capecitabine, resulting in stable disease for 12 months (Supplementary Fig.6).
+General deterioration then occurred, with disease progression in the chest (new pulmonary nodules, bilateral pleural effusions and posterior chest wall mass, Supplementary Fig.7; Eastern Cooperative Oncology Group performance status 2-3).
+Treatment was stopped and the patient died ~4 months later.
+Tumour samples were obtained at diagnosis from the primary breast site (P1.1) and an axillary lymph node (P1.2); after 19 months from the brain metastasis area (M2.1); and at autopsy after 3 years on treatment (from the primary breast site, and from metastatic deposits in the chest, liver, ovary and vertebrae, labelled P3.1 and M3.1-M3.4, respectively).
+Serial plasma samples were obtained over the last 500 days of clinical follow-up (T1-T9).
+Tumour and plasma samples collected and the clinical course are summarized in Fig.1a,b.
+An 8-year-old boy with S549R/1717-1G > A genotype was started on ivacaftor (150 mg b.i.d.) on compassionate use.
+At the age of 9 months he was diagnosed with CF due to failure to thrive.
+His previous history was remarkable for recurring nasal polyposis requiring endoscopic surgery and exocrine pancreatic insufficiency necessitating enzyme replacement therapy.
+He grew with body weight and height along the 10th percentile.
+He suffered from rather mild respiratory symptoms, primarily intermittent productive cough, and had close to normal lung function parameters in previous years as measured by body plethysmography and spirometry (minimal z-score of FEV1: -1.2).
+Sputum cultures grew Haemophilus influenzae and Staphylococcus aureus on several occasions.
+After 6 weeks of ivacaftor treatment, the patient reported clinical improvements in cough frequency, sputum production, physical performance, and less salt cravings.
+He gained 1.4 kg in body weight without changing the dose of his pancreatic enzyme replacement therapy.
+His sweat chloride level (Macroduct(r)) decreased from 115 mmol/l before ivacaftor to 40 mmol/l after 6 weeks and 52 mmol/l after 41 weeks (normal < 30 mmol/l [11]) of treatment.
+His FEV1 increased from 1.25 L (-1.2 z-score) to 1.65 L (+0.5 z-score) after 41 weeks of ivacaftor therapy.
+The LCI (normal < 8) measured by N2-MBW decreased from 14.5 to 8.3 after 6 weeks and 7.8 after 41 weeks of ivacaftor treatment (Table 1 and Fig.1). 
+Here, we describe another case in a 60-year-old man from San Francisco who had consumed raw pork while traveling in the Philippines.
+In June 2003, this man became ill with fever, diaphoresis, headache, nausea, and anorexia.
+He had just returned from a 7-month vacation in the Philippines.
+Three days after symptoms onset, his physician prescribed doxycycline.
+Symptoms continued and he was admitted to a local hospital 5 days later with a fever of 38.9degC, nuchal rigidity, headache, and general malaise.   
+The patient described no recent contact with sick persons; past medical history was unremarkable.
+On physical examination, he was somnolent but fully oriented, with no focal findings on neurologic examination and only slight nuchal rigidity.     
+He had a leukocyte count of 21,000/mm3, including 16,400/mm3 neutrophils.
+Cerebrospinal fluid (CSF) showed leukocyte count of 487/mL with 80% polymorphonuclear cells and 18% lymphocytes, and glucose and protein levels <20 mg/dL and <167 mg/dL, respectively.
+Gram stain of CSF showed gram-positive cocci in pairs (Figure).
+Empiric therapy (ceftriaxone, vancomycin, and ampicillin) for bacterial meningitis was begun.
+Computed tomographic scan of the head showed only sinusitis; findings of chest radiograph and transesophageal echocardiogram were negative.
+On hospital day 2, blood cultures grew gram-positive cocci in pairs and chains.
+The organism was catalase-negative, bile esculin-negative, and pyrrolidonyl aminopeptidase-negative, consistent with Streptococcus spp.
+A latex agglutination test did not detect Streptococcus pneumoniae antigen.
+Antimicrobial susceptibility testing showed that the isolate was sensitive to penicillin (MIC = 0.03), ceftriaxone, and vancomycin but resistant to tetracycline and clindamycin.
+Antimicrobial therapy was changed to penicillin G, 24 million units intravenously per day.
+On hospital day 5, the patient complained of hearing loss in his left ear.
+Results of nasopharyngeal endoscopy were negative.
+By hospital day 7, the organism was identified by the API 20 Strep System (bioMerieux, Marcy l'Etoile, France), as S. suis serotype 2.
+The patient subsequently stated that he was a butcher with a culinary preference for partially cooked pork, which he had eaten in the Philippines until the week prior to onset of symptoms.
+On hospital day 9, a formal audiology evaluation showed severe bilateral sensorineural high-frequency hearing loss (-70 dB).
+The patient completed a 10-day course of parenteral antimicrobial drugs and was discharged on continued oral therapy with close followup.
+Two months after discharge, the patient reported much improved hearing without other sequelae.
+A 71-year-old African-American woman presented to the hospital with worsening exertional dyspnoea associated with orthopnoea and lower extremity oedema for 3 weeks.
+She had a long-standing history of hypertension and documented G6PD deficiency with prior episodes of haemolysis.
+She was a former cigarette smoker and had family members with G6PD deficiency, hypertension and diabetes mellitus.
+Vital signs measurement revealed a blood pressure of 150/73 mm Hg, pulse rate of 70 bpm, respiratory rate of 24 breaths/min, temperature of 36.6degC and 97% saturation on room air.
+She was comfortable at rest.
+Her physical examination showed distended jugular veins, inspiratory crackles in bilateral lung bases, a laterally displaced apical impulse and bipedal oedema.
+The ECG showed left ventricular hypertrophy and inferolateral T-wave inversions.
+Chest radiography revealed cardiomegaly and mild pulmonary oedema.
+The metabolic panel and troponin levels were normal but the B-type natriuretic peptide was increased at 826.5 pg/mL.
+Echocardiography showed a dilated left ventricle with an ejection fraction (EF) of 30% and mild right ventricular systolic dysfunction.
+Coronary artery catheterisation revealed normal coronary circulation.
+Ethacrynic acid at 50 mg daily was chosen for diuresis.
+She improved after a day but still had dyspnoea, so we added spironolactone.
+Subsequently, metoprolol succinate and losartan were included in the regimen.
+Repeat chest radiography showed resolution of pulmonary oedema.
+The patient's laboratory results during her hospital stay did not show signs of haemolysis nor worsening kidney function.
+She did not develop ototoxicity and was discharged home asymptomatic.
+A 61-year-old male was referred to the emergency department by his general practitioner in April 2010 for investigation of loose bowel motions and an episode of black stool.
+The patient had a history of insulin-dependent type II diabetes mellitus, hypertension, ischaemic heart disease with two previous ischaemic events, obstructive sleep apnoea, depression, schizophrenia and a previous incisional hernia repair.
+On examination, he was morbidly obese (BMI 45) and was noted to have marked hepatomegaly.
+This was not associated with any recent weight loss, haematemesis, jaundice or abdominal pain.
+The patient denied previous blood transfusions, usage of intravenous drugs and did not drink alcohol.
+A faecal occult blood test was negative, and the patient's last colonoscopy 2 years prior was unremarkable.
+He was referred to our tertiary centre for further management after an ultrasound scan (USS) displayed an ovoid mass of mixed echogenicity arising from the liver, measuring 12 x 9 cm.
+A computed tomography (CT) scan confirmed a malignant appearing, pedunculated lesion attached to segment IV (Fig.1).
+A subsequent magnetic resonance imaging (MRI) confirmed that on T2 weighted imaging (WI), the lesion was isointense to the liver peripherally with central branching hyperintensities (Fig.2a) which corresponded to the hypointensities seen on T1WI (Fig.2b).
+Enhancement of the lesion was noted in arterial phase (Fig.3a), during portal venous phase (Fig.3b) and at 2 min (Fig.3c), with some central areas of non-enhancement.
+The lesion becomes slightly hypointense on delayed images at 10 (Fig.3d) and 20 min compared to the surrounding liver.
+Laboratory investigations revealed a mildly elevated gamma-glutamyl transpeptidase of 137 IU/L (normal 5-50 IU/L).
+Hepatitis screen, alpha-fetoprotein, carcinoembryonic antigen and cancer antigen 19-9 were all unremarkable.
+The patient underwent a subsegmental resection of the 15 cm segment IVb mass in June 2010.
+There was severe hepatic steatosis, but no cirrhosis.
+The patient was discharged postoperative day seven without complications.
+Pathology of the resection specimen confirmed SFTL.
+The specimen displayed a pale tan nodular appearance with a firm and rubbery cut surface.
+Histological examination revealed fascicles of spindle cells in storiform arrangement with a pushing margin.
+There was evidence of extracellular collagen deposition, areas of myxoid stroma and branching vessels with hyalinisation.
+The specimen displayed a high mitotic rate of up to 9 per 10 high-power fields (HPF) with no necrotic or haemorrhagic features.
+Immunohistochemistry showed positive staining for CD34, CD99 and BCL-2.
+The tumour was negative for c-Kit, CD31, SMA, desmin, cytokeratins (AE1/AE3, MNF116 and Cam 5.2), EMA and S100.
+The margins were clear.
+The non-neoplastic remainder of the liver displayed pericellular fibrosis indicative of steatohepatitis.
+The patient was followed-up regularly every 4 to 6 months with CT scans by the local general practitioner who liaised with the consultant surgeon.  
+There were two episodes of re-admissions for further investigation of recurrent right upper quadrant pain between 2011 and 2013.
+Multiple MRI scans performed during this period revealed expected postsurgical changes with no tumour recurrence.
+However, in May 2016, the patient presented to his local emergency department with progressively worsening right upper quadrant pain and increasing dyspnoea with an oxygen demand.
+CT of his chest, abdomen and pelvis revealed extensive tumour recurrence adjacent to the previous resection site (Fig.4).
+In addition, there was a clinically significant right-sided pleural effusion and a pleural mass at the right lung base measuring 3.8 cm (Fig.5).    
+Pleurocentesis was performed, draining 1400 ml of serosanguineous fluid.
+Cytology was negative for malignant cells.
+The case was discussed extensively in a multi-disciplinary setting, and it was decided given the patient's two sites of disease and significant perioperative risk that he was not a candidate for radical reoperation.
+There were also no suitable chemo- or radiotherapeutic therapies available.
+The patient was subsequently referred to the palliative team for management of his symptoms and discharged back to the community.
+He was still alive 1 month after discharge.
+This young boy is the first child of healthy non-consanguineous, white British parents.
+He was born at term following an uneventful pregnancy weighing 3132 g (9th-25th centile).
+Early development was thought to be normal.
+At approximately 6 months of age he developed tonic upward eye deviation associated with flexion of his arms and neck consistent with infantile spasms.
+An electroencephalograph (EEG) at this time was grossly abnormal (hypsarrhythmia) and strongly supported a diagnosis of West Syndrome.
+Cranial MRI was reported as normal.
+Prednisolone was prescribed and treated the seizures effectively.
+Steroids were weaned over 6 weeks and he remained seizure free for a further 6 months.
+By the age of 1 year, it was apparent that his early developmental progress was not being maintained and that he was functioning at the 6-8 month developmental stage.
+Seizures returned shortly after his first birthday and were prolonged, frequent and on occasion focal, involving his right arm, leg and right side of face.
+Clonazepam briefly improved seizure frequency, but subsequently his epilepsy has proved refractory to various combinations of anticonvulsant therapy.
+Prolonged seizures of more than 60 min have been associated with a stepwise regression in his neurodevelopment.
+Seizure semiology is now predominantly one of epilepsia partialis continua involving the right side of his face, right arm and right leg.
+The development of focal seizures and the progressive nature of the condition prompted a second cranial MRI at the age of 2 years 6 months.
+By contrast with the previous scan, this MRI revealed symmetrical subcortical white matter lesions (Fig.1A) with thinning of the anterior and genu of the corpus callosum (Fig.1B).
+On examination, the patient had small, round, anteriorly rotated ears and a broad nasal root.
+He demonstrated no visual awareness but startled to loud noise.
+Tone was increased in all 4 limbs with internal rotation of both legs at the hips.
+Reflexes were pathologically brisk.
+Brief myoclonic jerks were evident throughout the examination.
+A 33-year-old Moroccan man with a 5-month history of recurring sinusitis presented with temperature, myalgia, cough, and hemoptysis.
+Thoracic physical examination revealed reduced vesicular murmur, and chest X-ray showed bilateral diffuse alveolar infiltrates.
+Laboratory analyses showed elevation of acute-phase proteins (CRP 26 mg/dL) and creatinine (1.2 mg/dL) with nonnephrotic proteinuria and microscopic glomerular hematuria.
+An antibiotic therapy for community acquired and atypical pneumoniae with levofloxacin 500 mg daily iv was established, but on the 3rd day from admission the patient developed respiratory failure unresponsive to noninvasive ventilation and had to be intubated.
+White lung with consolidations and ground glass areas at computed tomography scan (Fig.1), diffuse airways bleeding at fiberoptic bronchoscopy, mild normocytic anemia (9 g/dL), and ANCA-PR3 positivity (18.9 U/mL) were consistent with the diagnosis of GPA.
+Despite maximal ventilatory support, gas exchange did not improve (pH 7.33, PaO2 71 mm Hg, PaCO2 51 mm Hg, HCO3- 25 mmol/L, SaO2 94%) requiring extracorporeal membrane oxygenation (ECMO).
+Treatment with high-dose methylprednisolone (1 g daily for 3 days and 1 mg/kg daily thereafter), cyclophosphamide (1.2 g/pulse every 2 weeks for the 1st 3 pulses, followed by infusions every 3 weeks for the next 2 pulses), and plasma exchange (PE), according to European vasculitis study group recommendations,[4] was immediately started with respiratory improvement that allowed ECMO and orotracheal tube withdrawal and subsequent discharge from intensive care unit.
+After 9 days from the beginning of treatment ANCA-PR3 levels normalized (3 U/mL).
+Two months later, after the 5th bolus of cyclophosphamide and with prednisone 0.3 mg/kg/day, the patient complained arthromyalgia and testicular pain with edema, cough, and shortness of breath: laboratory data showed worsening of renal function, mild anemia, and hypoxemia (PaO2 61 mm Hg).       
+Epididymitis was confirmed by ultrasound.
+Because of rapidly progressive renal failure (estimated glomerular filtration rate 35 mL/min) renal biopsy was performed and showed prominent intracapillary and extracapillary proliferation, with the formation of some fibrocellular crescents and focal capillary necrosis (Fig.2).
+Lung computed tomography-scan and fiberoptic bronchoscopy also confirmed alveolar hemorrhage relapse.
+Treatment with high-dose methylprednisolone (1 g daily for 3 consecutive days) and rituximab (375 mg/m2 weekly for 4 weeks) was started with rapid resolution of urologic and pulmonary involvement but delayed and partial improvement of renal function.
+At a 1-year follow-up, the patient is alive and under treatment with azathioprine (150 mg daily) and prednisone (15 mg daily).
+Renal function has markedly improved (estimated glomerular filtration rate 94 mL/min) same as gas-exchange (pH 7.42, PaO2 86 mm Hg, PaCO2 36 mm Hg, HCO3- 23 mmol/L, SaO2 95%).
+The patient signed institutional informed consent form at the time of admission to hospitalization.
+An approval by ethics committee was not necessary because of the routine health care.
+A 49-year-old woman was admitted to the Department of Radiology of the Second Affiliated Hospital of Zhejiang University in October 2004 with right upper quadrant pain and weight loss.
+She was a hepatitis B virus carrier.
+Her a-fetoprotein level was 1185.3 ng/mL.
+Ultrasonography and computed tomography (CT) revealed a 10-cm mass in the posterior segments of the right liver lobe.
+A 1.5-cm mass was also found in the left lateral segment.
+These clinical signs indicated that the patient had inoperable HCC and Child-Pugh class A cirrhosis.
+TACE was offered to the patient.
+Angiogram demonstrated no obvious hepatic arterio-venous shunt, but multiple smaller masses in both lobes of the liver.
+An emulsion of oxaliplatin, pirarubicin, hydroxycamptothecin and lipiodol were prepared, 35 mL and 3 mL of the mixture were administered intra-arterially to the right and left hepatic artery, respectively.
+The patient experienced right upper quadrant pain after TACE and had an uneventful recovery.
+One month later, a second TACE procedure was performed via the right hepatic artery and 40 mL of the mixture was administered.
+On the next day, she experienced sudden acute dyspnoea and the peripheral oxygen saturation decreased to 90%.
+The chest X-ray showed some increased reticular shadows in the left lung, especially in the lower zones, and a chest CT scan revealed multiple iodized oil-like high-density materials in parenchyma of the lung (Figure  1).
+After 10 mg dexamethasone i.v. and other supportive therapies were administered, the respiratory symptom was attenuated.
+Two days later, the patient suffered from a serious headache and transient consciousness loss, accompanying nausea and vomiting followed by confusion, lower extremity weakness.
+Non-contrast enhanced CT scanning showed multiple disseminated hyper-intense lesions in the brain, consistent with deposition of iodized oil (Figure  2).
+One week later, her respiratory and neurologic symptoms disappeared completely, and she was discharged.
+The patient also consequently completed the other three TACE procedures, during which no similar symptoms occurred.
+A 39-year-old Korean male come to our hospital complaining of cough, myalgia, and fever that had lasted for 5 days.
+He was a company worker and denied any previous medical histories.
+He was a current smoker and drank alcohol about once a month.
+His vital signs were: blood pressure, 100/60 mmHg, heart rate, 100/min, respiratory rate, 25 breaths/min, and body temperature, 39 degC.
+On the physical examination, decreased breathing sound was noted in the right lower lung.
+Laboratory tests revealed a c-reactive protein (CRP) level of 119 mg/dL, a total bilirubin level of 1.8 mg/dL, and alanine transaminase and aspartate transaminase levels of 250 and 172 IU/L, respectively.
+His platelet count was 98,000/mm3, while his white cell count was 8150/mm3 (neutrophil: 85%).
+In the arterial blood gas analysis checked in room air, pH, PaCO2, PaO2, bicarbonate, and oxygen saturation levels were 7.50, 34 mmHg, 67 mmHg, 26.5 mmol/L, and 95%, respectively.
+A test for the human immunodeficiency virus was negative.
+Mycoplasma and Chlamydia antibodies were negative.
+Streptococcal and Legionella urinary antigens were negative.
+Anti-nuclear and anti-neutrophilic cytoplasmic antibodies were also negative.
+A chest X-ray showed consolidation in the right mid to lower lung fields.
+Chest computed tomography showed consolidation with surrounding ground glass opacity in the right middle lobe with a small amount of pleural effusion in the right hemithorax (Fig.1).
+Abdominal sonography revealed no abnormal finding in the hepatobiliary system.
+We began to administer 4 L/min of oxygen nasally and empirical antibiotics with third generation cephalosporin and macrolide following a diagnosis of community-acquired pneumonia.
+On the second day in the hospital, the patient's fever was sustained and he complained of dyspnea.
+His hypoxemia was aggravated such that he required 7 L/min of oxygen via a simple mask and the consolidation and pleural effusion had markedly progressed (Fig.2a).
+We performed bronchoscopy and thoracentesis.
+Multiplex real-time reverse transcriptase polymerase chain reaction (RT-PCR) for respiratory viruses using bronchoalveolar lavage fluid was positive for human adenovirus while other microbiological studies were negative.
+Pleural fluid was lymphocyte-dominant exudate and was also positive for human adenovirus.
+Under the diagnosis of adenovirus pneumonia, we started antiviral therapy with oral ribavirin 400 mg q 12 h while maintaining antibiotics.
+On hospital day 4, his fever had subsided and symptoms were much improved.
+The transaminase levels, CRP and platelet counts gradually normalized (Fig.3).
+A follow-up chest X-ray was clear (Fig.2b) and he was discharged in hospital day 13 without any complications.
+A 60-year-old white Brazilian man, with controlled hypertension and stage 2 obesity presented to our institution with a complaint of progressive fatigue with moderate to light exertion of approximately 1 year's duration.
+During that period, he had undergone myocardial perfusion scintigraphy without evidence of obstructive ischemic disease.
+He had no clinical evidence of systolic heart failure.
+He had undergone biological mitral valve replacement 3 years previously for mitral valve stenosis and had undergone ablation of atrioventricular nodal reentry tachycardia 18 months previously.
+At the time of valve replacement, there was no reported evidence of pulmonary arterial hypertension.
+The patient's medication list included aspirin 100 mg/day, carvedilol 50 mg/day, atorvastatin 10 mg/day, and losartan 25 mg/day.
+His echocardiogram showed normal function of a mitral prosthesis, global left ventricular systolic function within normal limits (left ventricular ejection fraction 62 % measured using the Teichholz method), stage I diastolic dysfunction, and mean pulmonary arterial systolic blood pressure of 50 mmHg.
+In the 6-minute walk test, the patient walked 104 meters (Table 1).
+Catheterization of his right heart chambers and pulmonary arteries confirmed the diagnosis of pulmonary hypertension (Table 2).
+During the follow-up period, therapy with nifedipine and sildenafil was not tolerated secondary to orthostatic hypotension.
+The patient was referred for radiofrequency ablation of the pulmonary artery trunk for the treatment of refractory pulmonary hypertension.
+The procedure was performed in the catheterization laboratory with direct visualization using fluoroscopy and radiopaque contrast dye.
+The patient remained under unconscious sedation.
+Catheterization of the right femoral artery via the standard Seldinger technique was performed using an 8-French valved short sheath after subcutaneous injection of a local anesthetic.
+Subsequently, this sheath was replaced with a steerable long sheath (Agilis(r); St. Jude Medical, St. Paul, MN, USA) using the standard over-the-wire technique.
+Unfractionated heparin was administered intravenously, targeting an activated coagulation time between 250 and 350 seconds.
+Electroanatomic reconstruction of both the right ventricular outflow tract and pulmonary artery was performed using the EnSite Velocity Cardiac Mapping System (St.Jude Medical) under direct fluoroscopic visualization, and a merger was made with the formatted image obtained by performing cardiac computed tomography angiography (Fig.1).
+The Agilis(r) sheath was advanced into the right ventricular outflow tract just before reaching the pulmonary valve.
+Through this long sheath, we introduced an ablation catheter with an open irrigated tip (St.Jude Medical).
+The parameters used for each application according to our protocol were as follows: power of 5 W, maximum temperature of 48 degC, 60-second duration in each spot, maximum impedance variation of 10 % from baseline values, and an irrigation flow rate of 17 ml/minute, which created a circle in the pulmonary artery trunk.
+The patient was discharged the next morning.
+No noteworthy changes before or after the procedure or before discharge in the patient's radiographic or echocardiographic laboratory parameters were seen.
+The patient's blood pressure in both the right heart chambers and the pulmonary artery were determined using catheterization before and at 3 and 6 months after the procedure.
+The results are shown in Table 2.
+At the patient's 3-month follow-up examination, he showed an improvement in functional class for fatigue with major exertion.
+He also demonstrated an increased distance walked in the 6-minute walk test and reduction of the pressures in both the right cavities and the pulmonary artery.
+Currently, with 6 months of clinical follow-up, he has maintained his improvement in functional classification and is pedaling his bicycle.
+A 60-year-old male patient had previously undergone a radical resection of a T2bN0M0G3 Stage III retroperitoneal sarcoma, including right nephrectomy and cholecystectomy, in 2002.
+Pathologic evaluation demonstrated a 25 cm high-grade liposarcoma with different histologic components, including myxoid, round cell, well-differentiated, sclerosing and pleomorphic patterns.
+Surgical margins were negative as the tumor did not invade the kidney, and since the renal vein and ureter were free of tumor as well.
+The patient did not undergo any additional therapy.
+Surveillance magnetic resonance imaging in 2007 revealed an isolated tumor recurrence in the retroperitoneum.
+An exploratory celiotomy revealed tumor involvement of the duodenum, head of the pancreas, superior mesenteric vein, vena cava and left renal vein with severe adhesive changes, leading to the intraoperative assessment of unresectable disease.
+Subsequently, the patient underwent stereotactic body radiation to the retroperitoneal tumor in five fractions for a total dose of 30 Gy, without complication.
+Postradiation imaging revealed near complete resolution of the retroperitoneal mass.
+One year later, the patient presented with weight loss, postprandial abdominal pain, nausea and vomiting.
+Cross-sectional imaging revealed a 7 cm mass with involvement of the third portion of the duodenum (Figure  1).
+However, there was no obvious involvement of the pancreatic head or the other structures that were noted to be involved during the previous laparotomy.
+We elected to perform another resection attempt, including a possible pancreatoduodenectomy or retroperitoneal vascular resection if necessary.     
+At exploration, the residual tumor was an entirely intraduodenal, pedunculated mass at the posterior duodenal wall distal to the ampulla that filled the entire duodenal lumen.
+The patient underwent a duodenotomy and stalk transection of the polypoid mass, followed by partial duodenal resection with hand-sewn duodenojejunal anastomosis (Figure 2).
+Surgical pathology examination revealed a 9.5 cm recurrent high-grade liposarcoma with polypoid intraluminal growth containing myxoid, round cell, well-differentiated, sclerosing and focally pleomorphic areas.
+Surgical margins were negative as the tumor came within 0.1 cm of the stalk margin and there was no evidence of additional neoplastic components within the remaining resected duodenum.
+The postoperative course was uncomplicated, and the patient has demonstrated no recurrence up to 30 months from this resection.
+A 52-year-old man with a 30-year history of smoking presented with an abnormal nodule measuring 0.8 x 1.5 cm in the left upper lung lobe imaged through chest computed tomography (CT) scanning in March 2012 in a community hospital.
+He had previously been well without any additional relevant or abnormal symptoms.
+Physical examination suggested no significant abnormalities.
+Laboratory findings were within normal range, except for a carcinoembryonic antigen (CEA) level of 30.25 ng/mL (normal range, 0-5 ng/mL) found in the serum.
+Subsequently, a positron emission tomography (PET)/CT scan showed a lung lesion with a standardized uptake value of 7.94, which was highly suspected to be a malignant tumor (Fig.1).
+Subsequently, he underwent left upper lung lobectomy and lymph node dissection.
+Postoperative pathological examination revealed an adenocarcinoma (ADC) (Fig.2A).
+Immunohistochemistry (IHC) staining results were positive for CK7, TTF-1, p63, and NapsinA and negative for CK 5/6, Syn, cgA, and Ki-67 (20%-30%).  
+The clinical stage was classified as IA2 (pT1bN0M0).
+Because the tumor was still in an early stage, the patient did not receive adjuvant treatment but continued to be monitored through regular hospital visits every 3 months.
+The patient's condition had been stable until the onset of left chest pain in April 2015.
+The patient was transferred to our hospital (a tertiary care hospital) for further treatment.
+Physical examination suggested a significant tender point in the left chest wall.
+Laboratory findings showed only a single parameter outside the normal range: the cytokeratin19 fragment antigen 21-1 (CYFRA21-1) level was 17.45 ng/mL in the serum (normal range = 0-3.3 ng/mL).
+CT and PET/CT scans highlighted the serious involvement of left pleura, showing bilateral lung lesions (Fig.3A and E).
+At that point, the clinical stage was upgraded to IVB.
+After the CT-guided left pleura puncture, pathological IHC analysis showed positive staining for p63, p40, CK 7, and CK 5/6, while TTF-1 and NapsinA staining were absent, supporting a diagnosis of squamous cell carcinoma (SCC) (Fig.2B).
+Meanwhile, molecular evaluation confirmed an L858R mutation in exon 21 and a T790M mutation in exon 20 (Fig.4B and C).
+Considering the pathology of the SCC was quite distinct compared with that of the originally resected NSCLC specimen, we retrospectively reassessed the surgery specimen to verify our primary diagnosis.
+The morphologic and IHC results were in complete agreement with the initial diagnoses, but an L858R mutation was identified using the newly added molecular evaluation (Fig.4A).
+To relieve the acute pain in the left pleura as quickly as possible, palliative three-dimensional conformal radiotherapy (3D-CRT) for the chest lesion was delivered at a total dose of 42 Gy/14 fractions (f), once daily and 5f/week (Fig.5).
+The volume over radiation dose 5 Gy (V5) values of the left, right, and total lungs were 20%, 0%, and 7.8%, respectively; the volume over radiation dose 20 Gy (V20) values were 10%, 0%, and 5%, respectively; the mean lung dose (MLD) was 5 Gy.
+Meanwhile, considering the MST pathology was that of SCC, the patient received GP chemotherapy (cisplatin 75 mg/m2 d1, gemcitabine 1250 mg/m2 d1, d8, for 21 days as a cycle) for 4 cycles, and the patient achieved partial remission (PR) after 2 cycles, followed by stable disease (SD) after 4 cycles (Fig.3[B3[B and F] and [C and G]) according to response evaluation criteria in solid tumors (RECIST) 1.1.
+Then, gefitinib (150 mg qd) was used as maintenance treatment from November 2015 onward.
+During the treatment, Ibandronate sodium was given monthly for skeletal-related events.
+The patient is currently under surveillance with SD (Fig.3D and H) and with PS scores of 0.
+A 63-year-old male patient without smoking or drinking history was admitted on June 11, 2014.
+His major complaints were gradually aggravated dysphagia and fatigue, on suspicion of obstructive disease in upper digestive tract.
+He had been an athlete before, and then retired in good physical status before admission.
+His family and social history indicated nothing abnormal.
+Thorough physical examination of his skin, oral mucosa, eyes, and genital areas failed to identify any superficial lesions.
+Additionally, laboratory tests including hepatic function, renal function, and serum tumor markers such as carcinoembryonic antigen, cytokeratin 19 fragment, squamous cell carcinoma, neuron-specific enolase, and carbohydrate antigen 125 were all in normal range.
+Therefore, further endoscopic and radiological examinations were carried out for accurate diagnosis.
+Endoscopic examination revealed a slightly pigmented, irregular mass, which was located in lower esophagus, measuring 5.0 cm x 3.0 cm in size.      
+Fine needle biopsy of the lesion revealed esophageal melanoma, which was confirmed by histopathology.
+Besides chest and abdomen computed tomography (CT), enhanced cranial magnetic resonance image (MRI) and bone emission computed tomography (ECT) showed enlarged mediastinal, nd also celiac lymph nodes (Fig.1A), without obvious involvement of supraclavicular lymph nodes.
+Concurrently, the CT showed an isolated, irregular pulmonary tumor (Fig.1B).
+Positron emission tomography was not carried out, because it was not covered by health insurance of this patient.
+Therefore, this patient was clinically staged as cT3NxM1 according to the 7th edition of American Joint Committee on Cancer TNM staging system for esophageal cancer.
+CT-guided percutaneous pulmonary biopsy was avoided, with the aim to diminish the risk of tumor dissemination.
+Single-stage resection of the esophageal and pulmonary lesions was assumed to be reasonable after multidisciplinary consultation, which was approved by Ethical Committee of Xuzhou Central Hospital.
+Because the prognosis of this patient probably was extremely poor without targeted antibodies, which he could not afford for financial reasons.     
+After his informed consent, simultaneous Ivor-Lewis esophagectomy and right upper lobectomy were performed successfully, under general anesthesia, after double-lumen endotracheal intubation, followed by systemic dissection of lymph nodes located in mediastinum and abdomen, in accordance with the principles of oncological surgery.
+The operation time was 290 minutes, without obvious bleeding during the surgery.
+Postoperative pathological staining of the specimen revealed pleomorphic cells and abundant melanin granules (Fig.1C), whereas immunohistochemical tests demonstrated positive expression of human melanoma black 45 (HMB45), microtubule-associated protein tau 1 (MAPT1), melan A and S100, and negative expression of desmin, synaptophysin, and epithelial membrane antigen (EMA), which was consistent with melanoma.
+The resection margin and dissected lymph nodes were pathologically tumor-negative.
+In addition, molecular study of the patient indicated mutation of V-raf murine sarcoma viral oncogene homolog B1 (BRAF) V600E.
+Based on these findings, a diagnosis of advanced PMME was tentatively established as stage IV (pT3N0M1), because there was insufficient evidence to distinguish synchronous primary pulmonary melanoma from metastasis for this patient.
+The postoperative recovery was mainly uneventful, and the patient was discharged 14 days after surgery.
+Subsequently, 4 cycles of adjuvant conventional chemotherapy with an interval of 3 weeks were completed, with controlled moderate toxic effects including thrombocytopenia, leukopenia, nausea, vomiting, and diarrhea.
+The detailed chemotherapy regimen is as follows: paclitaxel liposome for injection on day 1 and day 8 (135 mg per square meter of body surface area; Nanjing Luye Sike Pharmaceutical Co., Ltd., Jiangsu, China.), tegafur injection on day 2 to 4 (1000 mg per square meter of body-surface area; Shandong Qilu Pharmaceutical Co., Ltd., Jinan, China.) plus cis-platinum on day 2 to 3 (75 mg per square meter of body-surface area; Shandong Qilu Pharmaceutical Co., Ltd., Jinan, China).
+This patient suffered from moderate leukopenia/ myelosuppression after the second cycle of TPF chemotherapy, and he recovered quickly after the administration of granulocyte colony-stimulating factor (G-CSF).
+Concurrently, recombinant human interferon alpha-2b (Harbin pharmaceutical group biological engineering Co., Ltd, Harbin, China) was administrated via hypodermic injection thereafter (6000 units every 3 days; Fig.2), lasting for 1 year.
+The patient was followed up continuously after the surgery.
+Chest and abdomen CT, cranial MRI, bone ECT, and thorough physical examination were carried out every 3 months.
+Encouragingly, the patient survived without loco-regional recurrence or remote metastasis during the follow-up of two and a half years up to now (Fig.3).
+A 51-year-old man was referred to our hospital due to severe congestive heart failure and ventricular arrhythmias in March 2008.
+He had been suffering from heart failure and ventricular tachycardia for years despite receiving the conventional treatment (ie, furosemide, lisinopril hydrate, pimobendan, warfarin potassium, carvedilol, metildigoxin and amiodarone hydrochloride).
+His height was 161 cm and body weight was 83 kg.
+Blood pressure was 110/60 mm Hg.
+The fasting blood glucose was 107 mg/dl and HbA1c was 6.3%.
+The chest x-ray showed cardiomegaly with a cardiothoracic ratio of 0.67 (figure 1A).
+ECG, as shown in video 1, revealed a diffused hypokinetic left ventricle with markedly dilated left ventricle dimension (end-diastole: 95 mm) and reduced EF (0.11).
+The coronary angiogram was normal.
+A myocardial biopsy revealed that over 50% of cardiomyocytes were replaced by fibrosis (figure 2).
+An implantable cardioverter-defibrillator was implanted.
+Due to the typical facial appearance and thickening of hands, he was referred to the endocrinology department.
+The plasma level of GH was 8.2 ng/ml and IGF-1 was 504 ng/ml.
+MRI demonstrated a macroadenoma in the pituitary.
+Thus, he was diagnosed as acromegaly.
+He was treated with octreotide long-acting-release (LAR) for 8 months.
+Thereafter, he underwent trans-sphenoidal surgery in January 2009 (figure 3).
+The plasma levels of GH and IGF-1 were decreased with octreotide LAR, but basal plasma levels of GH were always more than 4 ng/ml and plasma IGF-1 levels were above the appropriate age range (figure 3).
+After surgery, both plasma levels of GH and IGF-1 further decreased.
+Basal plasma levels of GH were mostly less than 0.5 ng/ml and IGF-1 levels were within normal ranges (figure 3).
+With the treatment of LAR, the cardiac function improved partially (cardiothoracic ratio=0.58; EF=0.20 in September 2008).
+After surgery, the cardiac function improved drastically (cardiothoracic ratio=0.47; EF=0.55 in April 2009; figures 1B and  and2B).2B).
+Frequency of ventricular arrhythmias decreased and pimobendan was tapered off.
+A 30-year-old woman with a history of HIV and HCV presented to the emergency department with a 4-month history of gradual but progressive swelling of her lower limbs and abdomen.
+She denied any chest pain, dyspnoea, paroxysmal nocturnal dyspnoea or orthopnoea.
+Vitals were stable.
+Cardiovascular examination was remarkable for an elevated jugular venous pressure (JVP) of about 12 cm with a pronounced 'y' descent.
+There was a prominent pericardial knock sound heard over the praecordium.
+There was no pericardial rub or murmur.
+The lungs were clear to auscultation.
+The patient was markedly oedematous from the abdomen to the lower limbs.
+She was admitted for further diagnostic work-up and management.
+She was diagnosed with HIV around May 2010 and had been on antiretroviral therapy.
+She had not used illicit drugs for approximately 5-6 years.
+Renal and hepatic diseases were ruled out through blood tests and imaging.
+Peritoneal fluid was negative for malignancy.
+Echocardiogram showed a thickened bright pericardium adjacent to the right heart border (figure 1) with parallel separation between epicardial and pericardial echoes (railroad track sign), septal bounce and lack of pericardial slide.
+Annulus paradoxus was demonstrated on tissue Doppler (figure 2).
+Left ventricular ejection fraction was 64%.
+The right ventricle was normal in size and function.
+There was moderate tricuspid regurgitation.
+There was no pericardial effusion, but the pericardial space was remarkable for debris.
+Constrictive physiology was demonstrated by Doppler study of tricuspid and mitral inflows (figure 3) during inspiration and expiration; diastolic flow reversal was also demonstrated in the hepatic veins during expiration.
+There was marked dilatation of the inferior vena cava with no change during inspiration or expiration.
+CT of the chest revealed thickening of the pericardium with no evidence of calcification.
+There were no lung nodules.
+Bilateral pleural effusions and interstitial thickening were present in the lung bases.
+Cardiac MRI confirmed the presence of a diffusely thickened pericardium at 5 mm.
+The inferior vena cava and hepatic veins appeared plethoric.
+There was a rapid early diastolic filling and associated diastolic septal bounce secondary to hindered late diastolic filling (figure 4).
+The patient showed a good response to diuresis.
+She underwent right and left heart catheterisation to confirm constrictive physiology.
+A 56-year-old African American man who initially presented with diarrhea, weight loss and painless jaundice, was subsequently found to have adenocarcinoma of the head of pancreas.
+An initial workup revealed localized cancer with no evidence of distant metastases.
+He then underwent pancreaticoduodenectomy with complete surgical resection of a 5cm moderately differentiated pancreatic adenocarcinoma.
+Although our patient underwent complete surgical resection, a pathological examination revealed a neoplastic invasion of the resected adjacent organs, and one out of the seven resected lymph nodes contained cancer (T3N1M0).
+At that point, the oncology department recommended to proceed with adjuvant chemotherapy with gemcitabine (1000mg/m2 IV on days 1, 8, 15 on a 28-day cycle for six cycles) to try to reduce the likelihood of recurrence.
+However, after completing two cycles (a total of six doses) of chemotherapy, he presented to the emergency department with worsening exertional dyspnea, three-pillow orthopnea, paroxysmal nocturnal dyspnea and fatigue.
+His physical examination revealed an elevated jugular venous pressure (JVP) (10cm above the sternal angle), bibasilar rales and +2 pitting edema of both lower extremities.
+Cardiac auscultation revealed a gallop rhythm with an S3 and a grade 3 holosystolic murmur over precordium.
+A chest X-ray showed cardiomegaly with mild to moderate-sized right-sided pleural effusion.
+It was thought that his presentation was consistent with fluid overload secondary to congestive heart failure (CHF) and he was started on intravenous (IV) furosemide with partial improvement in his symptoms.
+The next day, a two-dimensional echocardiography (2D Echo) was performed, which showed left ventricular ejection fraction (LVEF) of 15 to 20 percent with global hypokinesia along with moderate mitral regurgitation.
+Given the findings of 2D Echo and the absence of significant risk factors for coronary artery disease (CAD) and ischemic cardiomyopathy (CMP), it was concluded that our patient's CMP was related to the recent use of gemcitabine.
+Our patient was then started on carvedilol and an angiotensin-converting enzyme inhibitor in addition to diuretics and he was discharged from the hospital two days later in a euvolemic state.
+At that point, the cardiology department recommended stopping further chemotherapy with gemcitabine.
+The oncology department advised further testing to rule out ischemia as a cause of CMP as, in their opinion, chemotherapy with gemcitabine was the only option to reduce the risk of recurrence in this patient.
+Two weeks later, our patient underwent myocardial perfusion imaging (MPI), which showed a fixed small- to moderate-sized inferior wall defect without any evidence of active ischemia.
+The ejection fraction (EF) on MPI was calculated to be around 17 to 20 percent with severe global hypokinesia.
+Our patient was continued on standard heart failure therapy with one more admission to the hospital for CHF exacerbation about two months later.    
+He responded well to IV furosemide and adjustment of heart failure therapy.
+A 2D Echo was repeated a few months later and it showed improvement in systolic function with an LVEF of 40 percent.
+Due to his poor functional status and underlying CMP, further gemcitabine chemotherapy was stopped.
+Later, our patient developed a recurrence of his pancreatic cancer; he refused further chemotherapy and decided to proceed with palliative care.    
+Although the exact etiology of our patient's dilated cardiomyopathy remains unclear, gemcitabine remains the most likely culprit.
+The temporal relationship of his symptoms to the initiation of gemcitabine chemotherapy; the lack of risk factors for ischemic CMP and prior history of CAD, finding of global hypokinesia on 2D Echo, absence of ischemia on MPI; and improvement in his systolic function after discontinuation of gemcitabine were all consistent with gemcitabine-induced cardiomyopathy.
+A 76-year-old woman presented to our hospital with complaints of epigastralgia since a day prior to admission.
+Laboratory data on admission revealed an elevation of aminotransferase, alanine aminotransferase, u-guanosine triphosphate, and alkaline phosphatase.
+Serum total bilirubin and tumor markers, carcinoembryonic antigen (CEA), carbohydrate antigen 19-9 (CA19-9), SPan-1, and neuron-specific enolase (NSE), were all within normal ranges.
+Abdominal computed tomography (CT) and magnetic resonance cholangiopancreatography (MRCP) showed a mass in an enlarged gallbladder and bulky hepatic lymph nodes surrounding the hepatic hilum (Fig.1a,  b).
+There were also no apparent lesions in upper and lower gastrointestinal endoscopy.
+Endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) was performed to obtain tissue from the hilar lymph node.
+Immunohistochemical staining of the specimen identified diffuse positivity for keratin, CD56, and synaptophysin in the tumor cells, which is consistent with NEC.
+An endoscopic naso-gallbladder drainage (ENGBD) catheter was placed, and the bile cytology revealed class V malignant cells.
+Therefore, positron emission tomography/computed tomography (PET/CT) examination was performed to evaluate other primary or metastatic lesions.     
+It revealed that no other accumulated lesions were identified, and the accumulation of 18F fluorodeoxyglucose (FDG) was in the gallbladder (SUVmax 7.8) and lymph nodes (SUVmax 13.4) (Fig.1c, d).
+On the basis of these findings, the most likely diagnosis was a gallbladder NEC that was confined to the regional hepatic hilar lymph nodes metastasis.
+Finally, we decided to perform surgical resection prior to chemotherapy because of concerns about complications developing from mechanical obstruction of the hepatic hilum by the enlarged lymph node.
+She underwent cholecystectomy, hepatic hilar lymphadenectomy, extrahepatic biliary duct resection, and hepaticojejunostomy.
+The bulky lymph nodes were totally resected as "en bloc".
+There were no apparent residual lesions surgically.
+The postoperative course was uneventful and she was discharged on the tenth day after surgery.
+Macroscopically, the tumor was 58 x 42 mm in size and was located in the fundus, which contained a yellowish gallstone (Fig.2a).
+A portion of the hepatic hilar lymph nodes (71 x 37 mm) was also excised separately (Fig.2b).
+Microscopic examination of the gallbladder revealed a moderate to well differentiated tubular adenocarcinoma infiltrating from the mucosa to the muscular layer, but not the serosal surface, without any NEC components (Fig.2c,  d).
+The tumor cells in the gallbladder are slightly positive for synaptophysin and CD56, but negative for chromogranin A (Fig.2e-g).
+The resection margin from the liver bed was negative for tumor cells.
+The epithelium around the carcinoma showed intestinal metaplasia with the goblet cells (Fig.4a), which area was stained by alcian blue (Fig.4b).    
+On the other hand, the hepatic hilar lymph nodes were composed of small round tumor cells with hyperchromatic nuclei and scant cytoplasm (Fig.3a).  
+Some of the tumor cells were large and had vesicular nuclei.
+The tumor cells were arranged in sheets, cords, or in a trabecular or rosette fashion and were interspersed with focal necrosis.
+They were immunohistochemically positive for CD56, synaptophysin, and chromogranin A (Fig.3b-3d).
+The mitotic count was 24 per 10 high-power microscopic fields, and the Ki-67 proliferation index was 70-80%, consistent with NEC.
+The surgical dissection margin of the hepatic lymph nodes was microscopically cauterized within the tumor cells.
+There was no invasion to the extrahepatic biliary duct.
+As the result of thorough pathological re-evaluation by total segmentation, a negligible area of adenocarcinoma was detected in the lymph nodes (Fig.3e,  f).
+The adenocarcinoma component and the intestinal metaplastic epithelium in the gallbladder were both positive for CDX2 (Fig.4a), but the neuroendocrine component in hilar lymph nodes was negative for CDX2 (Fig.4b).
+Postoperatively, the patient received three cycles of carboplatin (area under the curve of 5 on day 1 repeated every 21 days) and etoposide (80 mg/m2 on days 1 through 3 repeated every 21 days).
+During the first course, grade 4 neutropenia occurred and it was managed with prophylactic fluoroquinolones.
+After 4 months, multiple recurrences in the para-aortic lymph nodes were detected, which was pathologically demonstrated via EUS-FNA to be NEC.     
+The patient underwent second-line chemotherapy with amrubicin (24 mg/m2 on days 1 through 3 repeated every 21 days).
+Grade 4 neutropenia and anemia developed during the courses, and she needed to receive pegylated granulocyte colony-stimulating factor and red blood cell transfusion.
+However, she died of progressive disease 8 months after surgery.
+A 66-year-old Caucasian woman with a history of hypertension was admitted to our hospital with a recent diagnosis of Burkitt lymphoma.
+Her lactate dehydrogenase level was high and the diameter of her mediastinal mass was more than 10cm.
+Her physical examination was normal, and basal electrocardiography (ECG) showed sinus rhythm with a heart rate of 72 beats/minute.
+Two-dimensional transthoracic echocardiography (TTE; Siemens, Acuson Sequoia, C512) revealed normal biventricular functions with an LV ejection fraction (LVEF) of 60%, mild mitral and tricuspid regurgitation, and moderate pericardial effusion.
+A risk assessment of the patient put her into a high-risk category and she underwent rituximab-hyperfractionated-cyclophosphamide-vincristine-doxorubicin-dexamethasone (R-Hyper-CVAD) chemotherapy protocol.
+Her laboratory values are summarized in Table 1.
+She received high-dose cyclophosphamide 300mg/m2 twice daily for 3 days, doxorubicin 25mg/m2/day for 2 days, rituximab 375mg/m2/day for 1 day, dexamethasone 40mg/day for 4 days, and vincristine 2mg/day for 2 days.
+The total treatment dose of cyclophosphamide and doxorubicin received was 1800mg/m2 and 50mg/m2, respectively.
+She was given allopurinol 300mg/day perorally, sodium bicarbonate (8.4%, 10 flacon/day) infusion for 24 hours before chemotherapy, and mesna 600mg/m2/day for 2 days as prophylaxis against tumor lysis syndrome and hemorrhagic cystitis, respectively.
+She also received granisetron 2mg/day and lansoprazole 30mg/day as antiemetogenic and gastric prophylaxis, respectively.
+The patient developed dyspnea on the seventh day of therapy.
+A physical examination revealed blood pressure of 100/60mmHg and a heart rate of 110 beats/minute.
+On chest auscultation, no inspiratory sounds were heard at lower zones and inspiratory crackles were heard at middle zones.
+Neither cardiac murmurs nor S3 were heard.
+An ECG showed low voltage in the limb and precordial leads.
+TTE showed diffusely increased myocardial echogenicity, mild pericardial effusion, and generally impaired biventricular systolic functions with an LVEF 31% and right ventricular mid-apical akinesis.
+Manifest pleural effusion was also detected.
+Drug-induced cardiotoxicity (myocarditis) was suspected.
+Furosemide and ramipril were started.
+The beta-blocker therapy the patient was already taking for hypertension was continued.
+After 12 days, TTE showed an LVEF of 37% and normal right ventricular functions.
+Her dyspnea decreased and she was discharged on day 20.
+After 1 month, TTE showed normal biventricular functions with an LVEF of 60%.
+After the first course of the R-Hyper-CVAD chemotherapy protocol, she underwent a high-dose methotrexate and cytarabine cycle.
+She had severe neutropenia and pneumonia.
+She had no cardiac failure symptoms during this chemotherapy course, but she declined another course of chemotherapy.
+She is still in remission despite the abbreviated course of chemotherapy.
