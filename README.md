@@ -8,6 +8,9 @@ This repository is responsible for holding all of the stages of the Ner developm
 
 ## How to run
 
+PYTHON 3.8.3 x64
+CUDA 1.16
+
 python -m venv .env
 
 source .env/bin/activate
