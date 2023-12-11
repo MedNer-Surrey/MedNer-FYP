@@ -1,7 +1,7 @@
 import spacy
 
 def main():
-    nlp = spacy.load("output/model-best")
+    nlp = spacy.load("relevant_data/maccrobat_model/model-best")
     file=open("test.txt","r")
     text = file.read()
     doc = nlp(text)
