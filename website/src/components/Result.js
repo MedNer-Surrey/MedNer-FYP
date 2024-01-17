@@ -51,32 +51,92 @@ function Result({aitext, aients, aitokens}) {
     setValue(newValue);
   };
 
+function getTokens() {
+  console.log(aients);
+};
+
   return (
     <Box sx={{ width: '100%' }}>
       <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
         <Tabs value={value} onChange={handleChange} aria-label="basic tabs example">
           <Tab label="Text" {...a11yProps(0)} />
-          <Tab label="Entities" {...a11yProps(1)} />
-          <Tab label="Item Three" {...a11yProps(2)} />
+          <Tab label="Tokens" {...a11yProps(1)} />
+          <Tab onClick={() => getTokens()} label="Entities" {...a11yProps(2)} />
         </Tabs>
       </Box>
       <CustomTabPanel value={value} index={0}>
         {aitext}
       </CustomTabPanel>
+      {/*THIS IS THE TOKENS*/}
       <CustomTabPanel value={value} index={1}>
         <TableContainer component={Paper}>
         <Table sx={{ minWidth: 650 }} aria-label="simple table">
           <TableHead>
             <TableRow>
-              <TableCell>Token</TableCell>
-              <TableCell align="right">Label</TableCell>
+              <TableCell>ID</TableCell>
+              <TableCell align="center">Token Text</TableCell>
+              <TableCell align="center">Start Index</TableCell>
+              <TableCell align="center">End index</TableCell>
             </TableRow>
           </TableHead>
+          { aitokens &&<TableBody>
+          {aitokens.map((token, i) => ( 
+            <TableRow key={token.id}> 
+              <TableCell component="th" scope="row"> 
+                {token.id} 
+              </TableCell> 
+              <TableCell align="center"> 
+                {aitext.split(" ")[token.id]}
+              </TableCell> 
+              <TableCell align="center"> 
+                {token.start}
+              </TableCell> 
+              <TableCell align="center"> 
+                {token.end} 
+              </TableCell> 
+            </TableRow>  
+                        ))
+              }
+          </TableBody> }
         </Table>
       </TableContainer>
-      </CustomTabPanel>
+      </CustomTabPanel> 
       <CustomTabPanel value={value} index={2}>
-        Item Three
+      <TableContainer component={Paper}>
+        <Table sx={{ minWidth: 650 }} aria-label="simple table">
+          <TableHead>
+            <TableRow>
+              <TableCell onClick={() => getTokens()}>ID</TableCell>
+              <TableCell align="center">Text</TableCell>
+              <TableCell align="center">Label</TableCell>
+              <TableCell align="center">Start index</TableCell>
+              <TableCell align="center">End index</TableCell>
+            </TableRow>
+          </TableHead>
+          { aients &&<TableBody>
+          {aients.map((ents, i) => ( 
+            <TableRow key={i}> 
+              <TableCell component="th" scope="row"> 
+                {i} 
+              </TableCell> 
+              <TableCell align="center"> 
+                {aitext.substring(ents.start, ents.end)}
+              </TableCell> 
+              <TableCell align="center"> 
+                {ents.label}
+              </TableCell> 
+              <TableCell align="center"> 
+                {ents.start} 
+              </TableCell> 
+              <TableCell align="center"> 
+                {ents.end} 
+              </TableCell> 
+            </TableRow> 
+                        ))
+              }
+          </TableBody> }
+        </Table>
+      </TableContainer>
       </CustomTabPanel>
     </Box>
   );
