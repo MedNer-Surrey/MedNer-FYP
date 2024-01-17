@@ -72,20 +72,6 @@ function Result({aitext, aients, aitokens}) {
               <TableCell align="right">Label</TableCell>
             </TableRow>
           </TableHead>
-          <TableBody>
-            {aients.map((key) => (
-              <TableRow
-                key={key.name}
-                sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
-              >
-                <TableCell component="th" scope="row">
-                  {value.label}
-                </TableCell>
-                <TableCell align="right"></TableCell>
-                <TableCell align="right">{value.label}</TableCell>
-              </TableRow>
-            ))}
-          </TableBody>
         </Table>
       </TableContainer>
       </CustomTabPanel>
