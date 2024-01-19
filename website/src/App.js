@@ -67,7 +67,7 @@ function App() {
       <button onClick={() => clicked(text)}>Apply NLP</button>
       {
         presence && 
-        <Result aitext={api.text} aients={api.ents} aitokens={api.tokens}/> // CREATE COMPONENT FOR NLP TEXT AND ADD IT HERE
+        <Result aitext={api.text} aients={api.ents} aitokens={api.tokens} model={model}/> // CREATE COMPONENT FOR NLP TEXT AND ADD IT HERE
       }
       </header>
     </div>

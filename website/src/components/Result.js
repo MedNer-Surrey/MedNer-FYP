@@ -10,7 +10,9 @@ import TableCell from '@mui/material/TableCell';
 import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
-import Paper from '@mui/material/Paper'
+import Paper from '@mui/material/Paper';
+
+var colorsJson = require('../styling/colors.json');
 
 function CustomTabPanel(props) {
   const { children, value, index, ...other } = props;
@@ -45,7 +47,7 @@ function a11yProps(index) {
   };
 }
 
-function Result({aitext, aients, aitokens}) {
+function Result({aitext, aients, aitokens, model}) {
   const [value, setValue] = React.useState(0);
   const handleChange = (event, newValue) => {
     setValue(newValue);
@@ -54,6 +56,10 @@ function Result({aitext, aients, aitokens}) {
 function getTokens() {
   console.log(aients);
 };
+
+function returnColor(clName) {
+  return colorsJson[model][clName]
+}
 
   return (
     <Box sx={{ width: '100%' }}>
@@ -115,7 +121,7 @@ function getTokens() {
           </TableHead>
           { aients &&<TableBody>
           {aients.map((ents, i) => ( 
-            <TableRow key={i}> 
+            <TableRow sx={{backgroundColor: () => returnColor(ents.label)}} key={i}> 
               <TableCell component="th" scope="row"> 
                 {i} 
               </TableCell> 
