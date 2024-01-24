@@ -53,13 +53,11 @@ function Result({aitext, aients, aitokens, model}) {
     setValue(newValue);
   };
 
-function getTokens() {
-  console.log(aients);
-};
-
 function returnColor(clName) {
   return colorsJson[model][clName]
 }
+
+
 
   return (
     <Box sx={{ width: '100%' }}>
@@ -67,7 +65,7 @@ function returnColor(clName) {
         <Tabs value={value} onChange={handleChange} aria-label="basic tabs example">
           <Tab label="Text" {...a11yProps(0)} />
           <Tab label="Tokens" {...a11yProps(1)} />
-          <Tab onClick={() => getTokens()} label="Entities" {...a11yProps(2)} />
+          <Tab label="Entities" {...a11yProps(2)} />
         </Tabs>
       </Box>
       <CustomTabPanel value={value} index={0}>
@@ -112,7 +110,7 @@ function returnColor(clName) {
         <Table sx={{ minWidth: 650 }} aria-label="simple table">
           <TableHead>
             <TableRow>
-              <TableCell onClick={() => getTokens()}>ID</TableCell>
+              <TableCell>ID</TableCell>
               <TableCell align="center">Text</TableCell>
               <TableCell align="center">Label</TableCell>
               <TableCell align="center">Start index</TableCell>

@@ -10,15 +10,19 @@ import MenuItem from '@mui/material/MenuItem';
 function App() {
   const [text, setText] = useState(false);
   const [presence, setPresence] = useState(false);
+  const [loadedModel, setLoadedModel] = useState("");
   const [api, setApi] = useState(false);
   const [model, setModel] = useState("maccrobat");
 
   async function getData(text) {
     try {
        let res = await axios({
-            url: 'http://127.0.0.1:5000/profile?model=' + model + '&text=' + text,
-            method: 'get',
-            timeout: 8000,
+            url: 'http://127.0.0.1:5000/apply',
+            method: 'POST',
+            data: [{
+              model: model,
+              text: text
+            }],
             headers: {
                 'Content-Type': 'application/json',
             }
@@ -36,17 +40,23 @@ function App() {
     }
     const modelChange = (event) => {
       setModel(event.target.value);
+      if(loadedModel === event.target.value) {
+        setPresence(true)
+      } else {
+      setPresence(false)
+      }
     }
     
     const clicked = (text) => {
-      console.log("Clicked and text is " + text);
       getData(text).then(res => setApi(res)).finally(setPresence(true))
+      setLoadedModel(model)
     }
 
 
   return (
     <div className="App">
       <header className="App-header">
+        <h2>NER Model App</h2>
         <FormControl fullWidth>
           <InputLabel id="model">Model</InputLabel>
           <Select
