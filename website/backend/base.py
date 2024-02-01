@@ -1,7 +1,7 @@
 from flask import Flask, request
 from flask_cors import CORS, cross_origin
 import spacy
-import pickle
+from ast import literal_eval
 
 api = Flask(__name__)
 cors = CORS(api)
@@ -13,10 +13,11 @@ colors = {"AGE": "#870A30", "SEX": "#43B0F1", "DISEASE_DISORDER" : "#B1D8B7", "H
 options = {"ents": ['AGE', 'SEX', 'DISEASE_DISORDER', 'HISTORY', 'DETAILED_DESCRIPTION', 'CLINICAL_EVENT', 'NONBIOLOGICAL_LOCATION', 'DIAGNOSTIC_PROCEDURE', 'LAB_VALUE', 'SIGN_SYMPTOM', 'THERAPEUTIC_PROCEDURE', 'MEDICATION', 'DOSAGE', 'SEVERITY', 'BIOLOGICAL_STRUCTURE', 'ADMINISTRATION', 'DATE', 'DISTANCE', 'COREFERENCE', 'AREA', 'DURATION', 'TIME', 'OUTCOME', 'OTHER_EVENT', 'QUANTITATIVE_CONCEPT', 'QUALITATIVE_CONCEPT', 'OTHER_ENTITY', 'OCCUPATION', 'ACTIVITY', 'SHAPE', 'TEXTURE', 'FAMILY_HISTORY', 'PERSONAL_BACKGROUND', 'FREQUENCY', 'SUBJECT', 'BIOLOGICAL_ATTRIBUTE', 'VOLUME', 'COLOR', 'HEIGHT', 'WEIGHT', 'MASS'],
                "colors": colors}
 
-@api.route('/profile', methods=['GET','POST'])
+@api.route('/apply', methods=['GET','POST'])
 @cross_origin()
 def my_profile():
-    nlp = globals()[request.args.get('model')]
-    text = request.args.get('text')
+    data = literal_eval(request.data.decode())
+    nlp = globals()[data[0]['model']]
+    text = data[0]['text']
     doc = nlp(text)
     return doc.to_json()

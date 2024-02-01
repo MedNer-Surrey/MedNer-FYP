@@ -5,6 +5,7 @@ import Result from './components/Result';
 import FormControl from '@mui/material/FormControl';
 import InputLabel from '@mui/material/InputLabel';
 import Select from '@mui/material/Select';
+import Button from '@mui/material/Button';
 import MenuItem from '@mui/material/MenuItem';
 
 function App() {
@@ -56,6 +57,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <a href={`/admin`} id='references'>Add data</a>
         <h2>NER Model App</h2>
         <FormControl fullWidth>
           <InputLabel id="model">Model</InputLabel>
@@ -74,10 +76,10 @@ function App() {
 
       <label>Enter text: </label>
       <textarea name="body" onChange={(e) => handleChange(e)}/>
-      <button onClick={() => clicked(text)}>Apply NLP</button>
+      <Button onClick={() => clicked(text)}>Apply NLP</Button>
       {
         presence && 
-        <Result aitext={api.text} aients={api.ents} aitokens={api.tokens} model={model}/> // CREATE COMPONENT FOR NLP TEXT AND ADD IT HERE
+        <Result aitext={api.text} aients={api.ents} aitokens={api.tokens} model={model}/>
       }
       </header>
     </div>

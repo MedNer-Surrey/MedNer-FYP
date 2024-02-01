@@ -11,6 +11,7 @@ import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
+import { PieChart } from '@mui/x-charts/PieChart';
 
 var colorsJson = require('../styling/colors.json');
 
@@ -57,6 +58,42 @@ function returnColor(clName) {
   return colorsJson[model][clName]
 }
 
+function counts(aients) {
+  let dic = {}
+  let data = []
+  Object.keys(colorsJson[model]).forEach(function(key) {
+    dic[key] = 0
+  });
+  console.log(aients)
+
+  aients.map((ents, i) => (
+    dic[ents.label] = dic[ents.label] + 1
+  ));
+
+  Object.keys(dic).forEach(function(key) {
+    if (dic[key] != 0) {
+    let dat = {value: dic[key], label: key, color: colorsJson[model][key]}
+    data.push(dat)
+    }
+  })
+  console.log(data)
+  return (
+    <>
+      <PieChart
+
+      series={[
+        {
+          data: data,
+          highlightScope: { faded: 'global', highlighted: 'item' },
+          faded: { innerRadius: 30, additionalRadius: -30, color: 'gray' },
+        },
+      ]}
+      width={800}
+      height={400}
+    />
+    </>
+  )
+}
 
 
   return (
@@ -66,6 +103,7 @@ function returnColor(clName) {
           <Tab label="Text" {...a11yProps(0)} />
           <Tab label="Tokens" {...a11yProps(1)} />
           <Tab label="Entities" {...a11yProps(2)} />
+          <Tab label="Statistics" {...a11yProps(3)} />
         </Tabs>
       </Box>
       <CustomTabPanel value={value} index={0}>
@@ -141,6 +179,9 @@ function returnColor(clName) {
           </TableBody> }
         </Table>
       </TableContainer>
+      </CustomTabPanel>
+      <CustomTabPanel value={value} index={3} sx={{marginLeft: "auto", marginRight: "auto"}}>
+       {aients && counts(aients)}
       </CustomTabPanel>
     </Box>
   );
