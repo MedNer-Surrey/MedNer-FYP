@@ -18,7 +18,7 @@ function App() {
   async function getData(text) {
     try {
        let res = await axios({
-            url: 'http://127.0.0.1:5000/apply',
+            url: 'http://0.0.0.0:3000/api/apply',
             method: 'POST',
             data: [{
               model: model,
