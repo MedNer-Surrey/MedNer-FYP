@@ -55,7 +55,8 @@ def get_data():
         temp_data = {}
         temp_data['text'] = line[1].replace(" ' ", "'")
         temp_data['entities'] = []
-
+        t = time.localtime()
+        temp_data['date'] = time.strftime("%d/%m/%Y %H:%M:%S", t)
         if " \' "in line[2]:
             line[2] = line[2].replace("\"\"", "\'")
             line[2] = line[2].replace(" \' ", " \\' ")

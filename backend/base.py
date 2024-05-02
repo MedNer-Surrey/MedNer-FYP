@@ -35,3 +35,5 @@ def my_profile():
 @cross_origin(supports_credentials=True, origin='*')
 def welcome():
     return render_template('index.html')
+
+#TODO Create thread that queries mongodb check to see if updated = True and if yes redownload models and load them
