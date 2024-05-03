@@ -27,6 +27,7 @@ python3 -m spacy train config.cfg --output ./output --paths.train ./data/trainin
 docker build -f Dockerfile.api -t backend . 
 docker build -f Dockerfile.client -t client .
 docker build -f Dockerfile.cron -t cron .
+docker build -f Dockerfile.anot -t annotator . --platform linux/amd64
 docker-compose up 
 ```
 
