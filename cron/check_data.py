@@ -9,6 +9,8 @@ from spacy.tokens import Doc, DocBin
 from spacy.util import filter_spans
 from tqdm import tqdm
 import itertools
+import os
+import shutil
 
 myclient = pymongo.MongoClient("mongodb+srv://admin:RXEOifMvCaD6HJHB@nerdata.2hcvguh.mongodb.net/")
 mydb = myclient["NERData"]
@@ -98,49 +100,59 @@ def update_model(data_array, nlp):
         for example in data:
             nlp.update([example], sgd=optimizer, losses=losses,drop=0.01)
 
-#NEW DATE
-updated = []
-dic = {}
-t = time.localtime()
-dic['last_check'] = time.strftime("%d/%m/%Y %H:%M:%S", t)
-dic['updated'] = False
+while True:
+    #NEW DATE
+    updated = []
+    dic = {}
+    t = time.localtime()
+    dic['last_check'] = time.strftime("%d/%m/%Y %H:%M:%S", t)
+    dic['updated'] = False
 
-#LAST DATE
-operation = mycl.find({}, {"_id":0})
-last_check = list(operation)[0]["last_check"]
-last_check = datetime.strptime(last_check, "%d/%m/%Y %H:%M:%S")
+    #LAST DATE
+    operation = mycl.find({}, {"_id":0})
+    last_check = list(operation)[0]["last_check"]
+    last_check = datetime.strptime(last_check, "%d/%m/%Y %H:%M:%S")
 
-#GET NEW DATA
-new_maccro_data = []
-new_mes_data = []
-new_simple_data = []
+    #GET NEW DATA
+    new_maccro_data = []
+    new_mes_data = []
+    new_simple_data = []
 
-check_new("maccro", new_maccro_data)
-check_new("mes", new_mes_data)
-check_new("simple", new_simple_data)
-#TRAIN MODELS if there is new data
-if new_maccro_data:
-    nlp = spacy.load("./models/maccrobat/model-best")
-    new_maccro_data = filter_data({"annotations": new_maccro_data}, nlp)
-    update_model(new_maccro_data, nlp)
-    nlp.to_disk('./models/maccrobat_updated/')
+    check_new("maccro", new_maccro_data)
+    check_new("mes", new_mes_data)
+    check_new("simple", new_simple_data)
+    #TRAIN MODELS if there is new data
+    if new_maccro_data:
+        nlp = spacy.load("./models/maccrobat/model-best")
+        new_maccro_data = filter_data({"annotations": new_maccro_data}, nlp)
+        update_model(new_maccro_data, nlp)
+        nlp.to_disk('./models/maccrobat_updated/')
+        os.rmdir("./models/maccrobat/model-best")
+        os.rename("./models/maccrobat_updated", "./models/model-best")
+        shutil.move("./models/model-best", "./models/maccrobat")
 
-if new_mes_data:
-    nlp = spacy.load("./models/mes/model-best")
-    new_mes_data = filter_data({"annotations": new_mes_data}, nlp)
-    update_model(new_mes_data, nlp)
-    nlp.to_disk('./models/mes_updated/')
+    if new_mes_data:
+        nlp = spacy.load("./models/mes/model-best")
+        new_mes_data = filter_data({"annotations": new_mes_data}, nlp)
+        update_model(new_mes_data, nlp)
+        nlp.to_disk('./models/mes_updated/')
+        os.rmdir("./models/mes/model-best")
+        os.rename("./models/mes_updated", "./models/model-best")
+        shutil.move("./models/model-best", "./models/mes/")
 
-if new_simple_data:
-    nlp = spacy.load("./models/simple/model-best")
-    new_simple_data = filter_data({"annotations": new_simple_data}, nlp)
-    update_model(new_simple_data, nlp)
-    nlp.to_disk('./models/simple_updated/')
+    if new_simple_data:
+        nlp = spacy.load("./models/simple/model-best")
+        new_simple_data = filter_data({"annotations": new_simple_data}, nlp)
+        update_model(new_simple_data, nlp)
+        nlp.to_disk('./models/simple_updated/')
+        os.rmdir("./models/simple/model-best")
+        os.rename("./models/simple_updated", "./models/model-best")
+        shutil.move("./models/model-best", "./models/simple")
 
-#AFTER TRAINING SAVE updated INSIDE CHECK COLLECTION
-if new_maccro_data or new_mes_data or new_simple_data:
-    dic['updated'] = True
-updated.append(dic)
-#mycl.replace_one({}, updated)
 
-#CHECK HOW TO REPLACE MODELS OR SOMETHING
+
+    #AFTER TRAINING SAVE updated INSIDE CHECK COLLECTION
+    if new_maccro_data or new_mes_data or new_simple_data:
+        dic['updated'] = True
+    updated.append(dic)
+    mycl.replace_one({}, updated)
