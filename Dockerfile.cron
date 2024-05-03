@@ -1,0 +1,9 @@
+FROM python:3.8.3
+RUN apt-get -y update
+RUN apt-get -y install git
+WORKDIR /app
+RUN /usr/local/bin/python -m pip install --upgrade pip
+RUN pip install -U pip setuptools wheel
+COPY cron .
+RUN pip install spacy pymongo huggingface_hub spacy-transformers tdqm
+CMD ["python", "./check_data.py"] 

@@ -8,7 +8,6 @@ from spacy.training import Example
 from spacy.tokens import Doc, DocBin
 from spacy.util import filter_spans
 from tqdm import tqdm
-import itertools
 import os
 import shutil
 
@@ -47,11 +46,7 @@ def filter_entities(data, nlp):
         ents = []
         for start, end, label in labels:
             span = doc.char_span(start, end, label=label, alignment_mode="contract")
-            if span is None:
-                print(start, end, label)
-                print("Skipping")
-            else:
-                print("Span {}".format(span))
+            if span is not None:
                 ents.append((start, end, label))
         tr_ex["entities"] = ents
         final_data.append({"text": tr_ex['text'], "entities": tr_ex["entities"]})
@@ -66,17 +61,9 @@ def filter_data(data, nlp):
         ents = []
         for start, end, label in labels:
             span = doc.char_span(start, end, label=label)
-            if span is None:
-                print(start, end, label)
-                print("Skipping")
-            else:
-                print("Span {}".format(span))
+            if span is not None:
                 ents.append(span)
-        for ent in ents:
-            print("raw",text, ent.start, ent.end, ent.label_)
         filtered_ents = filter_spans(ents)
-        for ent in filtered_ents:
-            print("filtered", ent.start, ent.end, ent.label_)
         doc.ents = filtered_ents
         final_data.append(doc)
     return final_data
@@ -101,18 +88,18 @@ def update_model(data_array, nlp):
             nlp.update([example], sgd=optimizer, losses=losses,drop=0.01)
 
 while True:
+    print("Starting check...")
     #NEW DATE
     updated = []
     dic = {}
     t = time.localtime()
     dic['last_check'] = time.strftime("%d/%m/%Y %H:%M:%S", t)
-    dic['updated'] = False
 
     #LAST DATE
-    operation = mycl.find({}, {"_id":0})
-    last_check = list(operation)[0]["last_check"]
+    operation = list(mycl.find({}, {"_id":0}))
+    last_check = operation[0]["last_check"]
+    dic['updated'] = operation[0]["updated"]
     last_check = datetime.strptime(last_check, "%d/%m/%Y %H:%M:%S")
-
     #GET NEW DATA
     new_maccro_data = []
     new_mes_data = []
@@ -122,12 +109,13 @@ while True:
     check_new("mes", new_mes_data)
     check_new("simple", new_simple_data)
     #TRAIN MODELS if there is new data
+    #STILL NEED TO UPLOAD THE MODELS
     if new_maccro_data:
         nlp = spacy.load("./models/maccrobat/model-best")
         new_maccro_data = filter_data({"annotations": new_maccro_data}, nlp)
         update_model(new_maccro_data, nlp)
         nlp.to_disk('./models/maccrobat_updated/')
-        os.rmdir("./models/maccrobat/model-best")
+        shutil.rmtree("./models/maccrobat/model-best")
         os.rename("./models/maccrobat_updated", "./models/model-best")
         shutil.move("./models/model-best", "./models/maccrobat")
 
@@ -136,7 +124,7 @@ while True:
         new_mes_data = filter_data({"annotations": new_mes_data}, nlp)
         update_model(new_mes_data, nlp)
         nlp.to_disk('./models/mes_updated/')
-        os.rmdir("./models/mes/model-best")
+        shutil.rmtree("./models/mes/model-best")
         os.rename("./models/mes_updated", "./models/model-best")
         shutil.move("./models/model-best", "./models/mes/")
 
@@ -145,7 +133,7 @@ while True:
         new_simple_data = filter_data({"annotations": new_simple_data}, nlp)
         update_model(new_simple_data, nlp)
         nlp.to_disk('./models/simple_updated/')
-        os.rmdir("./models/simple/model-best")
+        shutil.rmtree("./models/simple/model-best")
         os.rename("./models/simple_updated", "./models/model-best")
         shutil.move("./models/model-best", "./models/simple")
 
@@ -155,4 +143,6 @@ while True:
     if new_maccro_data or new_mes_data or new_simple_data:
         dic['updated'] = True
     updated.append(dic)
-    mycl.replace_one({}, updated)
+    mycl.replace_one({}, dic)
+    time.sleep(30)
+    print("Check complete...")

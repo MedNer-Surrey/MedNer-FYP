@@ -57,7 +57,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <a href={`/admin`} id='references'>Add data</a>
+        <a href={`/ner-annotator`} id='references'>Data annotator</a>
         <h2>NER Model App</h2>
         <FormControl fullWidth>
           <InputLabel id="model">Model</InputLabel>

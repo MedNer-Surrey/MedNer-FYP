@@ -26,6 +26,7 @@ python3 -m spacy train config.cfg --output ./output --paths.train ./data/trainin
 ```bash
 docker build -f Dockerfile.api -t backend . 
 docker build -f Dockerfile.client -t client .
+docker build -f Dockerfile.cron -t cron .
 docker-compose up 
 ```
 
@@ -44,3 +45,9 @@ check_data.py - cron
 ```
 
 Integrate cron into docker-compose
+
+## ACCESS
+
+To use the app without errors access: http://0.0.0.0:3000/
+
+Do not use localhost due to CORS exceptions

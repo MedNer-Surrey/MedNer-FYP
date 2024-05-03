@@ -11,3 +11,15 @@ services:
     image: client
     ports:
       - "3000:80"
+  cron:
+    build:
+      context: .
+      dockerfile: Dockerfile.cron
+    image: cron
+  annotator:
+    build:
+      context: .
+      dockerfile: Dockerfile.anot
+    image: annotator
+    ports:
+      - "8080:8080"
