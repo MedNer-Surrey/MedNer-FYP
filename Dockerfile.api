@@ -1,0 +1,12 @@
+FROM python:3.8.3
+WORKDIR /app
+RUN apt-get -y update
+RUN apt-get -y install git
+RUN /usr/local/bin/python -m pip install --upgrade pip
+RUN pip install -U pip setuptools wheel
+COPY backend .
+RUN pip install flask flask_cors spacy python-dotenv pymongo huggingface_hub spacy-transformers gunicorn
+ENV FLASK_ENV production
+
+EXPOSE 5000
+CMD ["gunicorn", "-b", ":5000", "base:app"]
