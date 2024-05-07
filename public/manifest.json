@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Medical NER",
+  "name": "Medical NER app",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "cardiogram128.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "128x128"
     },
     {
-      "src": "logo512.png",
+      "src": "cardiogram512.png",
       "type": "image/png",
       "sizes": "512x512"
     }

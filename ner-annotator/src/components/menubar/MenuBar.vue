@@ -136,49 +136,6 @@
         class="cursor-pointer"
         @click="toggleDarkMode"
       />
-
-      <div class="q-ml-md cursor-pointer non-selectable">
-        <span>Help</span>
-
-        <q-menu style="border-radius: 0.5rem;">
-          <q-list
-            dense
-            style="min-width: 100px"
-          >
-            <q-item
-              v-close-popup
-              clickable
-              href="https://github.com/tecoholic/ner-annotator/discussions"
-              target="_blank"
-            >
-              <q-item-section>
-                Forum
-              </q-item-section>
-            </q-item>
-            <q-item
-              v-close-popup
-              clickable
-              href="https://github.com/tecoholic/ner-annotator/issues"
-              target="_blank"
-            >
-              Report Issue
-            </q-item>
-            <q-separator />
-            <q-item
-              v-close-popup
-              clickable
-              @click="showAbout = true"
-            >
-              <q-item-section>About</q-item-section>
-            </q-item>
-          </q-list>
-        </q-menu>
-
-        <about-dialog
-          :show="showAbout"
-          @hide="showAbout = false"
-        />
-      </div>
     </div>
   </q-header>
 
