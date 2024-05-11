@@ -44,6 +44,6 @@ Do not use localhost due to CORS exceptions
 ### Linux/MacOS
 To use the app without errors access: http://0.0.0.0:3000/
 
-### Linux/MacOS
+### Windows
 
 To use the app without errors access: http://127.0.0.1:3000/
