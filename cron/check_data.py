@@ -94,7 +94,7 @@ while True:
     dic = {}
     t = time.localtime()
     dic['last_check'] = time.strftime("%d/%m/%Y %H:%M:%S", t)
-
+    print("New update_time {}".format(dic['last_check']))
     #LAST DATE
     operation = list(mycl.find({}, {"_id":0}))
     last_check = operation[0]["last_check"]
@@ -140,9 +140,11 @@ while True:
 
 
     #AFTER TRAINING SAVE updated INSIDE CHECK COLLECTION
+    operation = list(mycl.find({}, {"_id":0}))
+    dic['updated'] = operation[0]["updated"]
     if new_maccro_data or new_mes_data or new_simple_data:
         dic['updated'] = True
     updated.append(dic)
-    mycl.replace_one({}, dic)
+    mycl.update_one({}, {"$set": {"last_check": dic['last_check'], "updated": dic['updated']}})
     time.sleep(30)
     print("Check complete...")

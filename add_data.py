@@ -26,5 +26,6 @@ def get_data():
     return train_data
 
 data = get_data()
+
 for obj in data['annotations']:
-    mycl.update_one({}, {"$set": {"annotations": obj}})
+    mycl.update_one({}, {"$push": {"annotations": obj}})
