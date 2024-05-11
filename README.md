@@ -4,9 +4,15 @@ This repository is responsible for holding all of the stages of the Ner developm
 
 ## Requirements
 
+### Training a model
+
 PYTHON 3.8.3 x64
 
-CUDA 1.16
+CUDA 1.18
+
+### Runnin the application
+
+Docker
 
 ## Train a model
 
@@ -31,24 +37,13 @@ docker build -f Dockerfile.anot -t annotator . --platform linux/amd64
 docker-compose up 
 ```
 
-## TODO
-
-Integrate [prodigy](https://prodi.gy/) with app
-
-base.py - backend
-```python
-#TODO Create thread that queries mongodb check to see if updated = True and if yes redownload models and load them
-```
-
-check_data.py - cron
-```python
-#CHECK HOW TO REPLACE MODELS OR SOMETHING
-```
-
-Integrate cron into docker-compose
-
 ## ACCESS
 
+Do not use localhost due to CORS exceptions
+
+### Linux/MacOS
 To use the app without errors access: http://0.0.0.0:3000/
 
-Do not use localhost due to CORS exceptions
+### Linux/MacOS
+
+To use the app without errors access: http://127.0.0.1:3000/
