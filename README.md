@@ -28,6 +28,16 @@ python3 -m spacy train config.cfg --output ./output --paths.train ./data/trainin
 
 ```
 
+## Before running the app
+
+### Linux/MacOS
+
+/src/App.js (Line 21) change url to 'http://0.0.0.0:3000/api/apply'
+
+### Windows
+
+/src/App.js (Line 21) change url to 'http://127.0.0.1:3000/api/apply'
+
 ## Commands to run the application
 
 ```bash
@@ -46,10 +56,6 @@ Do not use localhost due to CORS exceptions
 
 To use the app without errors access: http://0.0.0.0:3000/
 
-/src/App.js (Line 21) change url to 'http://0.0.0.0:3000/api/apply'
-
 ### Windows
 
 To use the app without errors access: http://127.0.0.1:3000/
-
-/src/App.js (Line 21) change url to 'http://127.0.0.1:3000/api/apply'
