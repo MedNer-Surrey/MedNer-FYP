@@ -1,6 +1,7 @@
-# MedNer FYP
+# MedNER FYP
 
-This repository is responsible for holding all of the stages of the Ner development.
+MedNER is an application developed in order to improve medical data processing systems. It integrates NER models in an automated and simple way with a React app.
+It is my Final Year Project and it is inspired in the Epsom Hospital's needs.
 
 ## Requirements
 
@@ -10,7 +11,7 @@ PYTHON 3.8.3 x64
 
 CUDA 1.18
 
-### Runnin the application
+### Running the application
 
 Docker
 
@@ -27,7 +28,7 @@ python3 -m spacy train config.cfg --output ./output --paths.train ./data/trainin
 
 ```
 
-## Docker run 
+## Commands to run the application
 
 ```bash
 docker build -f Dockerfile.api -t backend . 
@@ -42,8 +43,13 @@ docker-compose up
 Do not use localhost due to CORS exceptions
 
 ### Linux/MacOS
+
 To use the app without errors access: http://0.0.0.0:3000/
+
+/src/App.js (Line 21) change url to 'http://0.0.0.0:3000/api/apply'
 
 ### Windows
 
 To use the app without errors access: http://127.0.0.1:3000/
+
+/src/App.js (Line 21) change url to 'http://127.0.0.1:3000/api/apply'
