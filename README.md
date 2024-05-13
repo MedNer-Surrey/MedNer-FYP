@@ -15,6 +15,8 @@ CUDA 1.18
 
 Docker
 
+Git
+
 ## Train a model
 
 ```bash
@@ -39,6 +41,11 @@ python3 -m spacy train config.cfg --output ./output --paths.train ./data/trainin
 /src/App.js (Line 21) change url to 'http://127.0.0.1:3000/api/apply'
 
 ## Commands to run the application
+
+```bash
+git clone https://github.com/MedNer-Surrey/MedNer-FYP.git
+cd MedNer-FYP
+```
 
 ```bash
 docker build -f Dockerfile.api -t backend . 
