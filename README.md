@@ -59,3 +59,14 @@ To use the app without errors access: http://0.0.0.0:3000/
 ### Windows
 
 To use the app without errors access: http://127.0.0.1:3000/
+
+## Code breakdown
+
+/backend/base.py - Imports the models from huggingface and handles POST requests (Flask)
+
+/src/App.js - Main page
+
+/cron/check_data.py - Responsible for updating models if there is new data in MongoDB and uploading them to [Hugging Face](https://huggingface.co/pavlopt)
+
+/ner-annotator - NER annotator application
+

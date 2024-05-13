@@ -118,6 +118,7 @@ while True:
         shutil.rmtree("./models/maccrobat/model-best")
         os.rename("./models/maccrobat_updated", "./models/model-best")
         shutil.move("./models/model-best", "./models/maccrobat")
+        hf_api.upload_folder(folder_path="./models/maccrobat/model-best",repo_id="pavlopt/maccrobat")
 
     if new_mes_data:
         nlp = spacy.load("./models/mes/model-best")
@@ -127,6 +128,7 @@ while True:
         shutil.rmtree("./models/mes/model-best")
         os.rename("./models/mes_updated", "./models/model-best")
         shutil.move("./models/model-best", "./models/mes/")
+        hf_api.upload_folder(folder_path="./models/mes/model-best",repo_id="pavlopt/mes")
 
     if new_simple_data:
         nlp = spacy.load("./models/simple/model-best")
@@ -136,7 +138,7 @@ while True:
         shutil.rmtree("./models/simple/model-best")
         os.rename("./models/simple_updated", "./models/model-best")
         shutil.move("./models/model-best", "./models/simple")
-
+        hf_api.upload_folder(folder_path="./models/simple/model-best",repo_id="pavlopt/simple")
 
 
     #AFTER TRAINING SAVE updated INSIDE CHECK COLLECTION
